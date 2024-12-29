@@ -1,0 +1,6 @@
+# 织梦dedecms彩经网门户资讯网站源码+全站数据
+
+织梦dedecms彩经网门户资讯网站源码+全站数据<br>安装说明： <br>1步：请把程序上传到空间，然后你的域名加/install/example.com<br>（注意：初始化数据不要安装，把“安装初始化数据进行体验”前面的勾去掉,example.com 默认就是,不要修改就行）<br>第二步：安装完成后,登陆进入后台,然后到“系统” - “数据库备份/还原” - 进去点右上角的 “数据还原” - 然后点最下面的“开始还原数据”按钮即可。<br>第三步：再修改下站点信息（“系统” - “系统基本参数” 里面修改成你自己的相关信息），注意：必改。<br>第四步：还原完数据库后 就立即修改下后台用户名密码 因为此时登陆密码已经被还原到备份以前了 后台：“系统” - “系统用户管理” 里面进去修改。（切记!一定要先修改管理员密码，否则退出后无法重新登录。）<br>第五步：上面操作完后再到：“生成” - “更新系统缓存”。<br>第六步：最尾巴生成全站HTML：“生成” - “一键更新全站” - “更新所有” 完工!<br>注：1. 广告在“模板文件” - “example.com”和“example.com” 对应的广告位里面添加和修改，注意，图片大小和路径。<br>2. LOGO路径是/img/example.com<br>example.com，example.com，example.com这4个文件，自己修改下。<br>example.com。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/LJ0Kj" style="color: red;">https://mega-file.org/LJ0Kj</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
